@@ -1,0 +1,13 @@
+{
+	"id" : 12 , 
+	"firstName": "ali",
+	"lastName" : "elraziny",
+	"active"   : true , 
+	"address"  : {
+			"street" :"azizya" ,
+			"city"   :"tanta" , 
+			"zip"    : 123 
+	} , 
+	"language" :["Java", "C#", "Python", "Javascript"]
+
+}
